@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(64, 64, 64);
+    box-sizing: content-box;
+    height: 100%;
+    margin: 0;
+}
+
+main {
+    background-color: rgb(30, 30, 30);
+    color: rgb(207, 186, 228);
+
+    margin: 0 4em;
+    padding: 4em;
+
+}
+
+footer {
+    background-color: rgb(30, 30, 30);
+    color: rgb(207, 186, 228);
+
+    height: 4em;
+    margin: 0 4em;;
+    padding: 2em 4em;
+}
+
+a:visited {
+    color: rgb(207, 186, 228);
+}
