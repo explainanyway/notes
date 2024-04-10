@@ -1,3 +1,3 @@
 # notes
 
-This notes contains things I've learnt divided rougly into two categories: Math (inlcuding mathematics, computer science, and physics) and English (including English language, literature, and western philosophy).
+This notes contains things I've learnt divided roughly into two categories: Math (including Mathematics, Computer Science, and Physics) and English (including English Language, English Literature, and Western philosophy).

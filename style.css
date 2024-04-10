@@ -1,28 +1,36 @@
+:root {
+    --black: rgb(60, 60, 60);
+}
+
 body {
-    background-color: rgb(64, 64, 64);
-    box-sizing: content-box;
-    height: 100%;
+    background-color: rgb(30, 30, 30);
+    color: rgb(205, 205, 205);
     margin: 0;
+
+    font-family: Helvetica, sans-serif;
 }
 
 main {
-    background-color: rgb(30, 30, 30);
-    color: rgb(207, 186, 228);
-
-    margin: 0 4em;
-    padding: 4em;
+    background-color: var(--black);
+    
+    width: max(80%, 800px);
+    margin: 0 auto;
+    padding: 2em;
 
 }
 
-footer {
-    background-color: rgb(30, 30, 30);
-    color: rgb(207, 186, 228);
+header {
+    background-color: var(--black);
 
-    height: 4em;
-    margin: 0 4em;;
-    padding: 2em 4em;
+    width: max(80%, 800px);
+    margin: 0 auto;
+    margin-bottom: 0.5em;
+    padding: 2em;
+
+    text-align: center;
+    
 }
 
-a:visited {
-    color: rgb(207, 186, 228);
+a, a:visited {
+    color: rgb(200, 197, 143);
 }
